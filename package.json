@@ -16,9 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "generate-photos": "node scripts/generatePhotoList.js",
-    "start": "npm run generate-photos && react-scripts start",
-    "build": "npm run generate-photos && react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
