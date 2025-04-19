@@ -5,7 +5,7 @@ import * as THREE from "three";
 
 const PRELOADER_PANDA_URL = "/models/panda.glb";
 const PRELOADER_PANDA_SCALE = 0.05;
-const PRELOADER_TEXT = "Clicking my Pandu reveals immense joy...";
+const PRELOADER_TEXT = "Clicking my Pandu reveals immense joy... Keep clicking ALL the pandas to unveil more joy!";
 
 // Internal component to load/display content
 function PreloaderContent({ onPandaClick }) {

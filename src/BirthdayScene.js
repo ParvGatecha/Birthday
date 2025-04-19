@@ -82,6 +82,15 @@ const memoryTexts = [
   "I Love You",
   "Tari sathe yaar khbr nai su thay jai kai no karta hoi toi maja ave",
   "I Love You",
+  "Tara mate badhuy karvu che pn yaar kyarek nthi bhegu thatu tney khbr che sorry ena mate pn thay jase badhuy ek divas 🤗🤗",
+  "I Love You",
+  "Bas eej icha che apde jem rai chi atyare emj rye badhuy 🤗🤗",
+  "I Love You",
+  "Tu khati re ne hu joto rav ahahahahaha anathi vadhare maja kyay no ave😍😍",
+  "I Love You",
+  "Bachuuuuuuuuuuuuuu pase av neeeeeeeeeeeeee 🤗🤗🤗🤗🤗🤗",
+  "I Love You",
+  ""
   // Add your own special memories here!
 ];
 // ----------------------------------------
