@@ -57,7 +57,7 @@ function App() {
     const now = new Date();
     const currentYear = now.getFullYear();
     // Unlock Time: April 20th, 00:00:00 (remember month is 0-indexed)
-    const unlockTime = new Date(currentYear, 3, 19, 0, 0, 0);
+    const unlockTime = new Date(currentYear, 3, 20, 0, 0, 0);
 
     console.log("Panda clicked at:", now);
     console.log("Unlock time is:", unlockTime);
