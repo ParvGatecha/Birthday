@@ -90,7 +90,14 @@ const memoryTexts = [
   "I Love You",
   "Bachuuuuuuuuuuuuuu pase av neeeeeeeeeeeeee 🤗🤗🤗🤗🤗🤗",
   "I Love You",
-  ""
+  "Mann to thay nyaj avi jav ne tari sathej rav akho divas pn majburi che yaar nthi avai em tne date ey nthi api sakto kyare avis 🥹🥹",
+  "I Love You",
+  "23 pti gya yaar tne 23. 20 karta najik 25 che hve 😱😱 moti thay gai ey pn mara mate to hji olu 4 vrs nu bachuj cho 🤗🤗",
+  "I Love You",
+  "Pandu pandu yaar kem kav tne kevu lage che atyare aa badhuy lakhu chu tari hare vaat karu chu pn rovuy ave che tari hare nthi atyare kadach avi sakatu hot to tney saru lagat",
+  "I Love You",
+  "Lakhvu to ghnuy che hji pn bs hve tu joi ji ne thaki jais 😛😛",
+  "I Love You",
   // Add your own special memories here!
 ];
 // ----------------------------------------

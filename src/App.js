@@ -40,7 +40,7 @@ function App() {
   // -----------------------------------------
 
   const girlfriendName = "Hirva"; // <-- !!! REPLACE WITH HER NAME !!!
-  const yourMessage = "You make my world brighter and happier. Love you always!"; // <-- !!! REPLACE WITH YOUR MESSAGE !!!
+  const yourMessage = "You make my world brighter and happier. Love you always and forever!"; // <-- !!! REPLACE WITH YOUR MESSAGE !!!
 
   const showMemoryHandler = (memoryText) => {
     setActiveMemory(memoryText);

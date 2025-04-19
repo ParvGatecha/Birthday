@@ -24,7 +24,7 @@ function PreloaderContent({ onPandaClick }) {
         <primitive
           object={clonedScene}
           scale={PRELOADER_PANDA_SCALE}
-          position={[0, -0.5, 0]} // Panda position relative to group center
+          position={[0, -1, 0]} // Panda position relative to group center
           onClick={(e) => {
             e.stopPropagation(); // Prevent clicks bubbling up
             if (onPandaClick) onPandaClick(); // Call the passed function
